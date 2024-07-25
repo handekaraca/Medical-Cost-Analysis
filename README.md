@@ -11,3 +11,5 @@ Veri setindeki kategorik değişkenlerin (cinsiyet, sigara içme durumu ve bölg
 Son olarak, veri seti kullanılarak bir regresyon analizi gerçekleştirilmiştir. Sonuçlar, yaş, BMI, çocuk sayısı ve sigara içme durumunun tıbbi maliyeti etkileyen önemli faktörler olduğunu göstermiştir.
 
 Bu analiz, tıbbi maliyet veri setinin çeşitli yönlerini incelemiş ve sağlık sektöründe karar verme süreçlerine katkıda bulunabilecek sonuçlar elde etmiştir.
+
+Veri Seti : https://www.kaggle.com/datasets/waqi786/medical-costs/data?select=medical_costs.csv
